@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+<head>
+<img src="https://tinyurl.com/foabwlogo" alt="Logo">
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+  <title>FoABW Fixed point photograph viewpoint locations</title>
+  <script src="https://maps.google.com/maps/api/js?sensor=false"
+          type="text/javascript"></script>
+</head>
+<body>
+  <h3>FoABW Fixed point photograph viewpoint locations          ***  Click on a marker for links to views from that location ***</h3>
+  <div id="map" style="width: ; height: 800px;"></div>
+
+  <script type="text/javascript">
+    var locations = [
+         ['https://plus.google.com/photos/112641462877299539106/albums/5810767019481600385', 50.992380, -.119220, 1, 'VP1 : Bolnore Wood small glade east end viewing west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753038638603993393', 50.992390, -.120040, 2, 'VP2 : Bolnore Wood small glade west end viewing north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753043059255580113', 50.992390, -.120040, 3, 'VP3 : Bolnore Wood small glade west end viewing south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753040983456100465', 50.992390, -.120040, 4, 'VP4 : Bolnore Wood small glade west end viewing east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753052479952300961', 50.992200, -.119710, 5, 'VP5 : Bolnore Wood , Beech glade viewing south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753061214583327873', 50.991530, -.119800, 6, 'VP6 : Bolnore  Wood, Large pond viewing north west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753059732477503425', 50.991600, -.119000, 7, 'VP7 : Bolnore Wood, East pond viewing north east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753058248300873233', 50.991350, -.119080, 8, 'VP8 : Bolnore/Catts Wood path, viewing west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753056655608992961', 50.991350, -.119080, 9, 'VP9 : Bolnore/Catts Wood path, viewing east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753055250002017905', 50.990080, -.118490, 10, 'VP10 : Catts Wood, viewing large glade from Cattswood Lane'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753187136254167505', 50.989570, -.118480, 11, 'VP11 : Catts Wood, viewing old track towards west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753185627374449217', 50.990970, -.114660, 12, 'VP12 : Ashenground Wood, junction of Boundary Path and Catts Path, by school, looking north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753184133108004417', 50.990970, -.114660, 13, 'VP13 : Ashenground Wood, junction of Boundary Path and Catts Path, by school, looking east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753182575079729921', 50.990970, -.114660, 14, 'VP14 : Ashenground Wood, junction of Boundary Path and Catts Path, by school, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753181376808110257', 50.990970, -.114660, 15, 'VP15 : Ashenground Wood, junction of Boundary Path and Catts Path, by school, looking into school'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753180048813798353', 50.991830, -.114580, 16, 'VP16 : Ashenground Wood, junction of Boundary Path and Bridleway, looking north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753178561008340353', 50.991830, -.114580, 17, 'VP17 : Ashenground Wood, junction of Boundary Path and Bridleway, looking east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753177171531228385', 50.991830, -.114580, 18, 'VP18 : Ashenground Wood, junction of Boundary Path and Bridleway, looking west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753175808823663521', 50.991830, -.114580, 19, 'VP19 : Ashenground Wood, junction of Boundary Path and Bridleway, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753174366704321057', 50.992040, -.111290, 20, 'VP20 : Ashenground Wood, junction of Pierces Path and Bridleway, looking north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811680573464873889', 50.992040, -.111290, 21, 'VP21 : Ashenground Wood, junction of Pierces Path and Bridleway, looking west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753171469155817025', 50.992040, -.111290, 22, 'VP22 : Ashenground Wood, junction of Pierces Path and Bridleway, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753170108846690945', 50.992000, -.110950, 23, 'VP23 : Ashenground Wood, junction of Railway Path and Bridleway, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753168653027425633', 50.991610, -.111680, 24, 'VP24 : Ashenground Wood, Pierces Path by scallop, looking south-east across marshy area'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753167108103933873', 50.991610, -.111680, 25, 'VP25 : Ashenground Wood, Pierces Path by scallop, looking south-west into scallop'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753165737432288001', 50.990770, -.111590, 26, 'VP26 : Ashenground Wood, Gills crossroads, looking north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753164278009654273', 50.990770, -.111590, 27, 'VP27 : Ashenground Wood, Gills crossroads, looking east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753162869764867537', 50.990770, -.111590, 28, 'VP28 : Ashenground Wood, Gills crossroads, looking west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753161371050209569', 50.990770, -.111590, 29, 'VP29 : Ashenground Wood, Gills crossroads, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753159865602434305', 50.990890, -.112860, 30, 'VP30 : Ashenground Wood, 5 oak glade, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753158395627034289', 50.990890, -.112860, 31, 'VP31 : Ashenground Wood, 5 oak glade, looking north into Monolith Glade'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753156906074696737', 50.990300, -.112370, 32, 'VP32 : Ashenground Wood, Pierces Path by 5 oak glade, looking west into glade'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753155493522645073', 50.990300, -.112370, 33, 'VP33 : Ashenground Wood, Pierces Path by 5 oak glade, looking north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753154137647363457', 50.990300, -.112370, 34, 'VP34 : Ashenground Wood, Pierces Path by 5 oak glade, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753152725121756945', 50.989770, -.113250, 35, 'VP35 : Ashenground Wood, Boundary Path by small gate, looking north up path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753151324755682305', 50.989770, -.113250, 36, 'VP36 : Ashenground Wood, Boundary Path by small gate, looking south down path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753150333767699617', 50.989770, -.113250, 37, 'VP37 : Ashenground Wood, Boundary Path by small gate, looking south-east across buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753149229859726609', 50.989530, -.112740, 38, 'VP38 : Ashenground Wood, top of Wiggly Path, north across buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753148142926263441', 50.989530, -.112740, 39, 'VP39 : Ashenground Wood, top of Wiggly Path, west towards housing block'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753146748447356785', 50.989530, -.112740, 40, 'VP40 : Ashenground Wood, top of Wiggly Path, east down Wiggly Path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753145537290415537', 50.988680, -.113380, 41, 'VP41 : Pierces Wood, entrance from Pierces Lane, north to housing block across woodland edge'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753144131006221057', 50.988680, -.113380, 42, 'VP42 : Pierces Wood, entrance from Pierces Lane, looking east into wood'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753142912420238721', 50.988680, -.113380, 43, 'VP43 : Pierces Wood, entrance from Pierces Lane, looking south along hedge at wood edge'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753141853205645777', 50.988680, -.113380, 44, 'VP44 : Pierces Wood, entrance from Pierces Lane, looking west across lane to pond'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753140479716928177', 50.987250, -.113370, 45, 'VP45 : Pierces Wood, entrance from Brooklands, looking east into wood'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753139037881464129', 50.987250, -.113370, 46, 'VP46 : Pierces Wood, entrance from Brooklands, looking west towards Brooklands'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753137810429442481', 50.987440, -.112450, 47, 'VP47 : Pierces Wood, Railway Path by Brooklands Path, looking north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753136565862119697', 50.987440, -.112450, 48, 'VP48 : Pierces Wood, Railway Path by Brooklands Path, looking south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753135100726299361', 50.987440, -.112450, 49, 'VP49 : Pierces Wood, Railway Path by Brooklands Path, looking down Brooklands Path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753133891660494257', 50.987230, -.112700, 50, 'VP50 : Pierces Wood, Victorian Spoil heap near Railway Path, looking towards Ashenground Bridge'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753132724605310529', 50.987230, -.112700, 51, 'VP51 : Pierces Wood, Victorian Spoil heap near Railway Path, looking south across wood edge to houses'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753131265712482497', 50.987750, -.112360, 52, 'VP52 : Pierces Wood, Railway Path, looking west down Foundry Brook'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753130003829427073', 50.988350, -.112400, 53, 'VP53 : Pierces Wood, grassy woodland path, looking away from Railway Path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753128762222316369', 50.988350, -.112400, 54, 'VP54 : Pierces Wood, grassy woodland path, looking  towards Railway Path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753127265744629169', 50.989000, -.112410, 55, 'VP55 : Pierces Wood, west side in small clearing, looking south down stream '],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753125839780988673', 50.989000, -.112410, 56, 'VP56 : Pierces Wood, west side in small clearing, looking north up stream'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753122856145349057', 50.989000, -.112410, 57, 'VP57 : Pierces Wood, west side in small clearing, looking west into wood'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753121539129777313', 50.989370, -.111640, 58, 'VP58 : Pierces Wood, east side, near bridge on Railway Track, looking north towards Ashenground Bridge'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753118330468342801', 50.989370, -.111640, 59, 'VP59 : Pierces Wood, east side, near bridge on Railway Track, looking south towards Rocky Lane'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5753124397023759777', 50.989370, -.111640, 60, 'VP60 : Pierces Wood, east side, near bridge on Railway Track, looking west up Wiggly Path'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811153912054579889', 50.993869, -.117228, 61, 'VP61 : Bridleway, north end, near Parkfield Way, looking west towards Four Acre Wood'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811167588485276225', 50.993043, -.117100, 62, 'VP62 : Bridleway, western section, Kingstreet Copse, looking south past aged Hornbeam'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811167265921904913', 50.992124, -.116628, 63, 'VP63 : Kingsteet Copse buffer zone, view north near Thatched Cottage'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811166949034720065', 50.991983, -.115801, 64, 'VP64 : Bridleway Shaw buffer zone, view west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811166641556723089', 50.991983, -.115801, 65, 'VP65 : Bridleway Shaw buffer zone, view east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811166289375826289', 50.991915, -.115437, 66, 'VP66 : Bridleway, southern section, view east across pond'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811165930170419089', 50.991874, -.114417, 67, 'VP67 : Bridleway, southern section near Quarry Hollow, view east '],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811165556228619649', 50.991874, -.114417, 68, 'VP68 : Bridleway, southern section near Quarry Hollow, view south into Ashenground Wood '],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811165210092904529', 50.991874, -.114417, 69, 'VP69 : Bridleway, southern section near Quarry Hollow, view west of ancient Hornbeams'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811164892517621889', 50.992313, -.114922, 70, 'VP70 : Buffer zone by Quarry Hollow, view east along buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811164558553209169', 50.992313, -.114922, 71, 'VP71 : Buffer zone by Quarry Hollow, view south east to QH'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811164245118212289', 50.992313, -.114922, 72, 'VP72 : Buffer zone by Quarry Hollow, view south along buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811163923433333329', 50.99235, -.113702, 73, 'VP73 : Buffer zone by BMX, view north along buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811163578362780401', 50.99235, -.113702, 74, 'VP74 : Buffer zone by BMX, view east into Four Acre Wood'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811163260356909969', 50.99235, -.113702, 75, 'VP75 : Buffer zone by BMX, view west along buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811162900808472465', 50.992440, -.113312, 76, 'VP76 : Four Acre Wood, west side, view north of ancient hornbeams'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811162547713554401', 50.9923, -.113307, 77, 'VP77 : Four Acre Wood, west side, view north from centre of clearing'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811162121072787537', 50.9923, -.113307, 78, 'VP78 : Four Acre Wood, west side, view east from centre of clearing'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811161741771691937', 50.9923, -.113307, 79, 'VP79 : Four Acre Wood, west side, view south from centre of clearing'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811161383558744673', 50.992746, -.112535, 80, 'VP80 : Four Acre Wood clearing, view north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811161089359650721', 50.992746, -.112535, 81, 'VP81 : Four Acre Wood clearing, view south east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811160776668752337', 50.992746, -.112535, 82, 'VP82 : Four Acre Wood clearing, view south west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811160435856497313', 50.992746, -.112535, 83, 'VP83 : Four Acre Wood clearing, view west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811160062727925329', 50.993401, -.113114, 84, 'VP84 : Pond Meadow, west side view north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811159706991866257', 50.993401, -.113114, 85, 'VP85 : Pond Meadow, west side view north east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811159322036391553', 50.993401, -.113114, 86, 'VP86 : Pond Meadow, west side view west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811154262868433393', 50.993337, -.111966, 87, 'VP87 : Pond Meadow, centre viewing north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811159002778140529', 50.993337, -.111966, 88, 'VP88 : Pond Meadow, centre viewing north east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811158622989164497', 50.993337, -.111966, 89, 'VP89 : Pond Meadow, centre viewing east south east'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811158282137935457', 50.993337, -.111966, 90, 'VP90 : Pond Meadow, centre viewing south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811157959834519105', 50.993337, -.111966, 91, 'VP91 : Pond Meadow, centre viewing north west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811157592302648257', 50.9934, -.110700, 92, 'VP92 : Pond Meadow, east side viewing north'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811157197314691281', 50.9934, -.110700, 93, 'VP93 : Pond Meadow, east side viewing south'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811156853056364721', 50.9934, -.110700, 94, 'VP94 : Pond Meadow, east side viewing west'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811156440606077313', 50.9938, -.113725, 95, 'VP95 : Reading Wood buffer zone, viewing north into Nuns Graveyard'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811156059675602001', 50.9938, -.113725, 96, 'VP96 : Reading Wood buffer zone, viewing east towards pinchpoint'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811155703786269361', 50.9938, -.113725, 97, 'VP97 : Reading Wood buffer zone, viewing south east towards Great Spreading Oak'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811155344084501329', 50.9938, -.113725, 98, 'VP98 : Reading Wood buffer zone, viewing north west along buffer zone'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811155005726242433', 50.9937, -.112905, 99, 'VP99 : Roadway north of Pond Meadow, viewing towards Pinchpoint'],
+      ['https://plus.google.com/photos/112641462877299539106/albums/5811154614878646529', 50.9937, -.112905, 100, 'VP100 : Roadway north of Pond Meadow, viewing east south east towards Pond Meadow'],
+     ['https://plus.google.com/photos/112641462877299539106/albums/5753124397023759777?banner=pwa', 50.9, -.1, 60, 'Dummy']
+  ];
+
+   var Spart1 = '<div id="bodyContent">'+
+        '<p><b>FoABW Fixed point photography</b></p>'+
+		'<p style="line-height: 0.85"> Views from this location :</p>';
+	var Spart2 =	'<p style="color:blue;margin-left:20px;line-height: 0.95"> <a href="';
+	var Spart3 = '" target="FoABWchild">';
+	var Spart4 = '</a> </p>';
+	var Spart5 = '</div>';
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 16,
+      center: new google.maps.LatLng(50.991016,-0.11504),
+      mapTypeId: google.maps.MapTypeId.SATELLITE
+    });
+
+
+    var infowindow = new google.maps.InfoWindow();
+ 	var marker,Mcontent="", v=0, L=0, Mtitle="",vt=0;
+	var MContents=new Array();
+	do
+		 {
+		L++;
+		Mtitle="Location "+(L).toString()+" has the following viewpoints :";
+		Mcontent=Spart1;
+		do
+			{
+			Mtitle=Mtitle+"\n\n"+locations[v][4];
+			Mcontent=Mcontent+Spart2+locations[v][0]+Spart3+locations[v][4]+Spart4;
+			v++;
+		}
+		// having incremented v, need to check v against v-1...
+		while (locations[v-1][1].toString()+locations[v-1][2].toString()==locations[v][1].toString()+locations[v][2].toString())
+
+		MContents[L]=Mcontent+Spart5;
+		marker = new google.maps.Marker({
+			position: new google.maps.LatLng(locations[v-1][1], locations[v-1][2]),
+			icon:  "https://maps.google.com/mapfiles/kml/pal3/icon32.png",
+			//       shadow: "http://maps.google.com/mapfiles/kml/pal3/icon32s.png",
+			//       iconsize: [20, 34], //shadowsize: [37, 34], //iconanchor: [9, 34],//shadowanchor: [19, 34],//},
+			map: map,
+			title: Mtitle
+		});
+		google.maps.event.addListener(marker, 'click', (function(marker, L) {
+			return function() {
+				infowindow.setContent(MContents[L]);
+				infowindow.open(map, marker);
+			}
+		})(marker, L));
+	vt=v-1;
+	}
+	while (vt <locations.length)
+
+  </script>
+</body>
+</html>

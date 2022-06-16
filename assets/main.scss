@@ -1,0 +1,26 @@
+---
+---
+
+// @import "minima/skins/{{ site.minima.skin | default: 'classic' }}";
+// @import "minima/initialize";
+@import "{{ site.theme }}";
+.site-header {
+    background: #222;
+    color: white;
+    
+    .site-nav {
+        background: #222;
+        
+        a {
+            color: #9F9;
+        }
+    }
+}
+main.page-content {
+    background: #444;
+    color: white;
+}
+.site-footer {
+    background: black;
+    color: white;
+}

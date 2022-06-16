@@ -1,4 +1,8 @@
-# FoABW UK
+---
+layout: home
+title: Welcome
+permalink: /
+---
 
 Ashenground and Bolnore Woods Local Nature Reserve is a small area of beautiful ancient woodland in Haywards Heath, lying to the south of the bridleway that runs from Ashenground Road to Bolnore village. It includes Ashenground Wood, Pierce’s Wood, Catts Wood and Bolnore Wood. This unique habitat has been acquired by Mid-Sussex District Council. The area is popular with local residents and is a valuable wildlife refuge and resource. A friends group, Friends of Ashenground and Bolnore Woods, helps care for the woods for the benefit of the whole community.
 
