@@ -5,11 +5,13 @@
 // @import "minima/initialize";
 @import "{{ site.theme }}";
 .site-header {
-    background: #222;
+    background: black;
+    border: 0;
+    border-bottom: 1px solid gray;
     color: white;
     
     .site-nav {
-        background: #222;
+        background: #111;
         
         a {
             color: #9F9;
@@ -17,10 +19,11 @@
     }
 }
 main.page-content {
-    background: #444;
+    background: #222;
     color: white;
 }
 .site-footer {
     background: black;
+    border-top: 1px solid gray;
     color: white;
 }
