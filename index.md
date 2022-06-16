@@ -32,18 +32,18 @@ Those of you who came on the Walk Through History of the Wood, led by Stuart Mei
 
 (Photos and captions courtesy of Archaeology South-East)
 
-![Fossil](uploads/2018/09/BVD06-4.jpg)
+[![Fossil](uploads/2018/09/BVD06-4-300x158.jpg)](uploads/2018/09/BVD06-4.jpg)
 
 Photo 1: BVD06- 4: This pottery sherd was uncovered during the 2006 archaeological excavations here in Bolnore. This sherd is part of the rim of a medieval cooking pot.
 
-![Fossil](uploads/2018/09/BVD06-104.jpg)
+[![Fossil](uploads/2018/09/BVD06-104-219x300.jpg)](uploads/2018/09/BVD06-104.jpg)
 
 Photo 2: BVD06-104: Part of a circular grindstone in a light grey sandstone. The stone is 90mm thick with a 100mm diameter hole at its centre. A grindstone would have been used to sharpen tools.
 
-![Fossil](uploads/2018/09/BVD06-107.jpg)
+[![Fossil](uploads/2018/09/BVD06-107-300x202.jpg)](uploads/2018/09/BVD06-107.jpg)
 
 Photo 3: BVD06- 107: Given its weight (an impressive 870g) and its shape, this axe could be described as an axe preform. It displays the alternate flake scar removals corresponding to the early stage of shaping and thinning once the initial axe roughout has been obtained. The axe “preform” measures 220mm long, up to 85mm wide and 45mm thick and is thought to be from the Neolithic period.
 
-![Fossil](uploads/2018/09/BVD06-359.jpg)
+[![Fossil](uploads/2018/09/BVD06-359-300x170.jpg)](uploads/2018/09/BVD06-359.jpg)
 
 Photo 4: BVD06- 359: An end-and-side scraper with evidence of retouch along the right hand edge and end. It is thought this piece dates back to the Neolithic and was uncovered in a large ditch here in Bolnore.
