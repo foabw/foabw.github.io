@@ -6,8 +6,9 @@ permalink: /events/
 
 ![owl](uploads/2018/03/KIMS-PHOTO-14-640x427.jpg)
 
-Events and Work through the winter.
-Conservation
+## Events and Work through the winter
+
+### Conservation
 
 The Conservation Volunteers meet at 10.00 a.m on the 1st and 3rd Saturday of each month in the Winter for 2 -3 hours (October – March)   From April, the Summer schedule is in place (check Summer Schedule Poster when applicable).  
 
@@ -33,7 +34,9 @@ We run some special events during the year. Members and non-members are welcome.
 
 CHILDREN’S BUG HUNT – DATE T.B.A
 
-## 2021 Accounts –  Minutes of 2022 A.G.M (and Conservation Activity Report 2022) 
+## 2021 Accounts 
+
+Minutes of 2022 A.G.M (and Conservation Activity Report 2022) 
 
 [2021 FoABW account](uploads/2022/02/2021-FoABW-accounts.pdf)
 
