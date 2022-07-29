@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Surveys
-permalink: /newsletters/
+permalink: /surveys/
 ---
 
 ## Wildlife Sighting Recording
