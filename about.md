@@ -15,3 +15,11 @@ Regular newsletters are produced and contributions from members are always welco
 ![Group around fire](uploads/2015/11/FoABW-Yellow-Fleeces-300x200.jpg)
 
 FoABW received the Community Involvement Award in the Discretionary category of the South and South East in Bloom 2012 competition.
+
+## Joining Our Committee
+
+FoABW would like to expand representation on our Committee. We meet about once every three months and we are friendly group, all obviously keen on protecting and enhancing the Nature Reserve. If you would like to find out more about joining our Committee and what it involves, then do please contact our Chair, Lorraine Maynard
+
+### VACANCY
+
+Secretary required for Committee.  For further information please contact Lorraine Maynard on the telephone number or email address below.
