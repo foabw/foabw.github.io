@@ -2,5 +2,13 @@ _site
 .sass-cache
 .jekyll-cache
 .jekyll-metadata
+
 vendor
 uploads
+
+_events.md
+assets
+how-to/
+_layouts/
+_readme.md
+Gemfile.lock
