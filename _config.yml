@@ -20,3 +20,5 @@ telephone: 07802 162275
 # Build settings
 theme: minima
 markdown: kramdown
+gems:
+- jekyll-email-protect
