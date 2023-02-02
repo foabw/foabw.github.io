@@ -12,3 +12,5 @@ how-to/
 _layouts/
 _readme.md
 Gemfile.lock
+
+*.zip
