@@ -28,11 +28,13 @@ Members and non-members are welcome, but under 16s must be accompanied by an adu
 
 We run some special events during the year. Members and non-members are welcome. Information about these will be posted here, on the notice boards in the woods and on our Facebook page. Events are **Free of Charge** to members and non-members.  Under 16s must be accompanied by an adult, who will be responsible for them throughout.
 
-## Events booked for 2022
+## Events Planned for 2023
 
-[Photography Afternoon Poster 2022 Brian Watkins ](uploads/2022/04/Photography-Afternoon-Poster-2022-Brian-Watkins-LANDSCAPE-VERSION.pdf)
-
-CHILDREN’S BUG HUNT – DATE T.B.A
+- A.G.M.  12th March 2023 at The Ascension Community Centre, Vale Road, HH. Start time 3pm. Members & Non-members welcome.
+- Photography Afternoon with Brian Watson.  Date  and Time T.B.A.
+- Children's Bug Hunt with MSDC Ranger and Debby Martell.  Date and Time T.B.A 
+- Bird of Prey Afternoon.   Date and Time T.B.A
+- Evening Bat Walk.   Date and Time T.B.A.
 
 ## 2021 Accounts 
 
