@@ -10,8 +10,10 @@ permalink: /surveys/
 
 Lorraine Maynard records sightings of birds, plus other fauna and flora, seen in the woods. Please let Lorraine know if you see any birds or other fauna and flora – unusual or common (contact details at foot of page).
 
-[Sightings Report Winter 2022](uploads/2022/03/FoABW-Sightings-Report-WINTER-DEC-JAN-2022-FEB.pdf)
-
+- [Sightings Report Autumn 2022](uploads/2022/06/FoABW-Sightings-Report-AUTUMN-SEPT-OCT-NOV-2022.pdf)
+- [Sightings Report Summer 2022](uploads/2022/06/FoABW-Sightings-Report-SUMMER-JUN-JUL-AUG-2022.pdf)
+- [Sightings Report Spring 2022](uploads/2022/06/FoABW-Sightings-Report-SPRING-MAR-APR-MAY-2022.pdf)
+- [Sightings Report Winter 2022](uploads/2022/03/FoABW-Sightings-Report-WINTER-DEC-JAN-2022-FEB.pdf)
 
 ### Snapshot of Inveterate Life in Ashenground & Bolnore Woods by Krisztina Fekete.
 
