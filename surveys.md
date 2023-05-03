@@ -8,12 +8,9 @@ permalink: /surveys/
 
 ![Bird purched on berry tree](uploads/2016/01/REDWING-JOANNA-PHOTO-640x480.jpg)
 
-Lorraine Maynard records sightings of birds, plus other fauna and flora, seen in the woods. Please let Lorraine know if you see any birds or other fauna and flora – unusual or common (contact details at foot of page).
+Lorraine Maynard records sightings of birds, plus other fauna and flora, seen in the woods. Please let Lorraine know if you see any birds or other fauna and flora – unusual or common. You are also encouraged to send any pictures you take of the local wildlife, your pictures may even end up in the newsletter. (You can send this to FoABW on facebook www.facebook.com/FoABW or email: lorrainemaynard04@gmail.com).
 
-- [Sightings Report Autumn 2022](uploads/2022/06/FoABW-Sightings-Report-AUTUMN-SEPT-OCT-NOV-2022.pdf)
-- [Sightings Report Summer 2022](uploads/2022/06/FoABW-Sightings-Report-SUMMER-JUN-JUL-AUG-2022.pdf)
-- [Sightings Report Spring 2022](uploads/2022/06/FoABW-Sightings-Report-SPRING-MAR-APR-MAY-2022.pdf)
-- [Sightings Report Winter 2022](uploads/2022/03/FoABW-Sightings-Report-WINTER-DEC-JAN-2022-FEB.pdf)
+You can view the sighting records, on our facebook page or by requesting them from Lorraine on the above email.
 
 ### Snapshot of Inveterate Life in Ashenground & Bolnore Woods by Krisztina Fekete.
 
