@@ -12,7 +12,7 @@ Task days involve work in the woodland, including coppicing, as well as more str
 
 Regular newsletters are produced and contributions from members are always welcome.
 
-![IMG-20230220-WA0009](https://user-images.githubusercontent.com/129117012/235943860-245a6615-886a-434a-9f8d-1567f7e206bd.jpg)
+![IMG-20230220-WA0009 edit](https://user-images.githubusercontent.com/129117012/235944469-01698583-8121-46c0-9a0f-e031451b661e.jpg)
 
 
 FoABW received the Community Involvement Award in the Discretionary category of the South and South East in Bloom 2012 competition.
