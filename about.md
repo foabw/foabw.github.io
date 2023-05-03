@@ -12,7 +12,8 @@ Task days involve work in the woodland, including coppicing, as well as more str
 
 Regular newsletters are produced and contributions from members are always welcome.
 
-![Group around fire](uploads/2015/11/FoABW-Yellow-Fleeces-300x200.jpg)
+[IMG-20230220-WA0009](https://user-images.githubusercontent.com/129117012/235943043-386536ec-9111-4bce-a8b1-87c0963349ab.jpg)
+
 
 FoABW received the Community Involvement Award in the Discretionary category of the South and South East in Bloom 2012 competition.
 
