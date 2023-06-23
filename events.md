@@ -29,13 +29,17 @@ We run some special events during the year. Members and non-members are welcome.
 
 ## Events Planned for 2023 - ALL OUR EVENTS ARE FREE OF CHARGE
 
-- A.G.M.- 12th March 2023 at The Ascension Community Centre, Vale Road, HH. Start time 3pm. Members & Non-members welcome.
-- Free Woodland Art Class lead by Laura from Mindful Art Sussex - ONLY 10 PLACES AVAILABLE, first come first served - Sunday 30th July @ 2.30pm-3.30pm - contact Laurafoabw@gmail.com to secure your spot.
+- Free Woodland Art Class lead by Laura from Mindful Art Sussex - ONLY 10 PLACES AVAILABLE, first come first served - Sunday 30th July @ 2.00pm-3.30pm - contact Laurafoabw@gmail.com to secure your spot.
 (Easels, equiptment, acrylic paint, brushes and an A4 canvas will be provided for free on the day, equiptment will be returned at the end of the session but you can take your artwork home. If you would like to bring other mediums or your own canvas, you are welcome to.)
+
 - Children's Bug Hunt with MSDC Ranger and Debby Martell-Blake - Sunday 13th August @ 2.30pm-4.00pm - Meet at Railway Bridge
 (incase of bad weather the alternative date will be Saturday 26th August - same time/same place)
+
 - Bird of Prey Afternoon - Saturday 19th August @ 2.00pm-4.00pm - Meet at Weaver's Meadow
+  
 - Evening Bat Walk - Friday 1st September @ 7.30pm-9.00pm - Meet at Railway Bridge - BRING A TORCH
+
+- Fungi Hunt - Saturday 7th October @ TBA - Meet at Railway Bridge - BRING A TORCH
 
 ## Accounts 
 
