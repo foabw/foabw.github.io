@@ -13,15 +13,15 @@ Task days involve work in the woodland, including coppicing, as well as more str
 Regular newsletters are produced and contributions from members are always welcome.
 
 
-## The Royal Horticultural Society and Britain in Bloom present us with an "Outstanding" Award
+## Royal Horticultural Society and Britain in Bloom 2023 present us with an "Outstanding" Award!
 
 ![RHS Britain in Bloom Outstanding Award for FoABW](https://github.com/foabw/foabw.github.io/assets/129117012/aef1df32-2e79-4596-b1ce-0ea743ab8a7e)
 
 
+2022 FoABW Conservation Volunteers received a Special Award from Haywards Heath in Bloom from Cllr Sandy Ellis, Haywards Heath Town Council.
 
 FoABW received the Community Involvement Award in the Discretionary category of the South and South East in Bloom 2012 competition.
 
-2022 FoABW Conservation Volunteers received a Special Award from Haywards Heath in Bloom from Cllr Sandy Ellis, Haywards Heath Town Council.
 
 ## Joining Our Committee
 
