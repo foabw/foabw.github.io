@@ -14,6 +14,9 @@ Regular newsletters are produced and contributions from members are always welco
 
 ![IMG-20230220-WA0009 edit](https://user-images.githubusercontent.com/129117012/235944469-01698583-8121-46c0-9a0f-e031451b661e.jpg)
 
+## The Royal Horticultural Society and Britain in Bloom present us with an "Outstanding" Award
+![RHS Britain in Bloom Outstanding Award for FoABW](https://github.com/foabw/foabw.github.io/assets/129117012/d474138a-eda6-44b3-8a6b-786f6f0f131e)
+
 
 FoABW received the Community Involvement Award in the Discretionary category of the South and South East in Bloom 2012 competition.
 
