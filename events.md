@@ -6,17 +6,17 @@ permalink: /events/
 
 ![owl](uploads/2018/03/KIMS-PHOTO-14-640x427.jpg)
 
-## Events and Work through the winter
+## Events and Work throughout the year
 
 ### Conservation
 
-The Conservation Volunteers meet at 10.00 a.m on the 1st and 3rd Saturday of each month in the Winter for 2 -3 hours (October – March)   From April, the Summer schedule is in place (check Summer Schedule Poster when applicable).  
+The Conservation Volunteers meet at 10.00 a.m on the 3rd Saturday of each month throughout the year, for 2 -3 hours. 
 
-The meeting place is at the Thatched Cottage in Bolnore Village for both days. It is conveniently close to our new tool store.  If you live outside Bolnore Village, the Thatched Cottage is accessible via the Bridleway from Ashenground Railway Bridge. The meeting place is where Renfields crosses the Bridleway.  
+The meeting place is at the Thatched Cottage in Bolnore Village. It is conveniently close to our new tool store.  If you live outside Bolnore Village, the Thatched Cottage is accessible via the Bridleway from Ashenground Railway Bridge. The meeting place is where Renfields crosses the Bridleway.  
 
-Not all the work involves coppicing –we are also busy mowing the grassy places, and cutting back path edges. Litter picking and other light work for the less fit is also an important element. All tools are provided.
+Not all the work involves coppicing – we are also busy mowing the grassy places, and cutting back path edges, or litter picking and other light work if you prefer, as any help is appreciated. All tools are provided.
 
-You don’t need experience –training will be given.  Please wear stout footwear.
+You don’t need experience – training will be given.  Please wear stout footwear.
 
 Members and non-members are welcome, but under 18s and vulnerable adults must be accompanied by a responsible adult, who will be responsible for them throughout.
 
@@ -27,7 +27,7 @@ Members and non-members are welcome, but under 18s and vulnerable adults must be
 
 We run some special events during the year. Members and non-members are welcome. Information about these will be posted here, on the notice boards in the woods and on our Facebook page. Events are **Free of Charge** to members and non-members.  Under 16s must be accompanied by an adult, who will be responsible for them throughout.
 
-## Events Planned for 2023 - ALL OUR EVENTS ARE FREE OF CHARGE
+## Events for 2023 and January 2024 - ALL OUR EVENTS ARE FREE OF CHARGE
 
 - Free Woodland Art Class lead by Laura from Mindful Art Sussex - ONLY 10 PLACES AVAILABLE, first come first served - Sunday 30th July @ 2.00pm-3.30pm - contact Laurafoabw@gmail.com to secure your spot.
 (Easels, equiptment, acrylic paint, brushes and an A4 canvas will be provided for free on the day, equiptment will be returned at the end of the session but you can take your artwork home. If you would like to bring other mediums or your own canvas, you are welcome to.)
@@ -39,7 +39,9 @@ We run some special events during the year. Members and non-members are welcome.
   
 - Evening Bat Walk - Friday 1st September @ 7.30pm-9.00pm - Meet at Railway Bridge - BRING A TORCH
 
-- Fungi Hunt - Saturday 7th October @ TBA - Meet at Railway Bridge - BRING A TORCH
+- Fungi Hunt - Saturday 7th October @ - Meet at Railway Bridge - BRING A TORCH
+
+- Woodland Art Class - SUNDAY 21st JANUARY 2024 at 12.30PM - 2.30PM with Laura Maynard Meet at Railway Bridge
 
 ## Accounts 
 
