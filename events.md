@@ -45,7 +45,9 @@ We run some special events during the year. Members and non-members are welcome.
 
 ## Accounts 
 
-Minutes of A.G.M (and Conservation Activity Reports) - see facebook page.
+Minutes of A.G.M (and Conservation Activity Reports) - see Facebook page or download latest AGM:
+[FOAB AGM Minutes 12 March 2023.pdf](https://github.com/foabw/foabw.github.io/files/13078776/FOAB.AGM.Minutes.12.March.2023.pdf)
+
 
 
 ## Information Lecterns
