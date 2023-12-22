@@ -42,6 +42,7 @@ We run some special events during the year. Members and non-members are welcome.
 - Fungi Hunt - Saturday 7th October @ - Meet at Railway Bridge - BRING A TORCH
 
 - Woodland Art Class - SUNDAY 21st JANUARY 2024 at 12.30PM - 2.30PM with Laura Maynard Meet at Railway Bridge
+[Mindfull Art Poster Jan 2024 LANDSCAPE FORMAT .pdf](https://github.com/foabw/foabw.github.io/files/13757345/Mindfull.Art.Poster.Jan.2024.LANDSCAPE.FORMAT.pdf)
 
 ## Accounts 
 
