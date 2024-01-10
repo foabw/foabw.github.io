@@ -43,6 +43,8 @@ We run some special events during the year. Members and non-members are welcome.
 
 - Woodland Art Class - SUNDAY 21st JANUARY 2024 at 12.30PM - 2.30PM with Laura Maynard Meet at Railway Bridge
 [Mindfull Art Poster Jan 2024 LANDSCAPE FORMAT .pdf](https://github.com/foabw/foabw.github.io/files/13757345/Mindfull.Art.Poster.Jan.2024.LANDSCAPE.FORMAT.pdf)
+![Woodland art poster Jan 24](https://github.com/foabw/foabw.github.io/assets/129117012/234c8142-5b43-42a5-a9aa-d042b411616f)
+
 
 ## Accounts 
 
