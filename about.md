@@ -18,7 +18,7 @@ Regular newsletters are produced and contributions from members are always welco
 
 ## Royal Horticultural Society and Britain in Bloom 2023 present us with an "Outstanding" Award!
 
-![RHS Britain in Bloom Outstanding Award for FoABW](uploads/2024/bloom.jpg)
+![RHS Britain in Bloom Outstanding Award for FoABW](uploads/2024/aef1df32-2e79-4596-b1ce-0ea743ab8a7e.jpeg)
 
 
 2022 FoABW Conservation Volunteers received a Special Award from Haywards Heath in Bloom from Cllr Sandy Ellis, Haywards Heath Town Council.
