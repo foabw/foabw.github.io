@@ -10,15 +10,15 @@ Friends of Ashenground and Bolnore Woods is made up of local people, including w
 
 Volunteer sessions involve work in the woodland, including coppicing, as well as more straight forward tasks such as litter picking. Flora and fauna surveys are carried out to monitor carefully any changes in species over time. Links with local schools and other developments are a key aspect of planning for the future.
 
-Regular newsletters are produced and contributions from members are always welcome, why not join us as a member! 
+Regular newsletters are produced and contributions from members are always welcome, why not join us as a member!
 ### Every membership helps us to continue running all of our events for free, download the form here:
 
-[FOABW Membership Form 2024.pdf](https://github.com/foabw/foabw.github.io/files/14251655/FOABW.Membership.Form.2024.pdf)
+[FOABW Membership Form 2024.pdf](uploads/2024/FOABW.Membership.Form.2024.pdf)
 
 
 ## Royal Horticultural Society and Britain in Bloom 2023 present us with an "Outstanding" Award!
 
-![RHS Britain in Bloom Outstanding Award for FoABW](https://github.com/foabw/foabw.github.io/assets/129117012/aef1df32-2e79-4596-b1ce-0ea743ab8a7e)
+![RHS Britain in Bloom Outstanding Award for FoABW](uploads/2024/bloom.jpg)
 
 
 2022 FoABW Conservation Volunteers received a Special Award from Haywards Heath in Bloom from Cllr Sandy Ellis, Haywards Heath Town Council.
