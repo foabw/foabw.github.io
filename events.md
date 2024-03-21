@@ -10,9 +10,9 @@ permalink: /events/
 
 ### Conservation
 
-The Conservation Volunteers meet at 10.00 a.m on the 3rd Saturday of each month throughout the year, for 2 -3 hours. 
+The Conservation Volunteers meet at 10.00 a.m on the 3rd Saturday of each month throughout the year, for 2 -3 hours.
 
-The meeting place is at the Thatched Cottage in Bolnore Village. It is conveniently close to our new tool store.  If you live outside Bolnore Village, the Thatched Cottage is accessible via the Bridleway from Ashenground Railway Bridge. The meeting place is where Renfields crosses the Bridleway.  
+The meeting place is at the Thatched Cottage in Bolnore Village. It is conveniently close to our new tool store.  If you live outside Bolnore Village, the Thatched Cottage is accessible via the Bridleway from Ashenground Railway Bridge. The meeting place is where Renfields crosses the Bridleway.
 
 Not all the work involves coppicing – we are also busy mowing the grassy places, and cutting back path edges, or litter picking and other light work if you prefer, as any help is appreciated. All tools are provided.
 
@@ -36,20 +36,20 @@ We run some special events during the year. Members and non-members are welcome.
 (incase of bad weather the alternative date will be Saturday 26th August - same time/same place)
 
 - Bird of Prey Afternoon - Saturday 19th August @ 2.00pm-4.00pm - Meet at Weaver's Meadow
-  
+
 - Evening Bat Walk - Friday 1st September @ 7.30pm-9.00pm - Meet at Railway Bridge - BRING A TORCH
 
 - Fungi Hunt - Saturday 7th October @ - Meet at Railway Bridge - BRING A TORCH
 
 - Woodland Art Class - SUNDAY 21st JANUARY 2024 at 12.30PM - 2.30PM with Laura Maynard Meet at Railway Bridge
-[Mindfull Art Poster Jan 2024 LANDSCAPE FORMAT .pdf](https://github.com/foabw/foabw.github.io/files/13757345/Mindfull.Art.Poster.Jan.2024.LANDSCAPE.FORMAT.pdf)
-![Woodland art poster Jan 24](https://github.com/foabw/foabw.github.io/assets/129117012/234c8142-5b43-42a5-a9aa-d042b411616f)
+[Mindfull Art Poster Jan 2024 LANDSCAPE FORMAT .pdf](uploads/2024/Mindfull.Art.Poster.Jan.2024.LANDSCAPE.FORMAT.pdf)
+![Woodland art poster Jan 24](uploads/2024/295496496-234c8142-5b43-42a5-a9aa-d042b411616f.JPG)
 
 
-## Accounts 
+## Accounts
 
 Minutes of A.G.M (and Conservation Activity Reports) - see Facebook page or download latest AGM:
-[FOAB AGM Minutes 12 March 2023.pdf](https://github.com/foabw/foabw.github.io/files/13078776/FOAB.AGM.Minutes.12.March.2023.pdf)
+[FOAB AGM Minutes 12 March 2023.pdf](uploads/2024/FOAB.AGM.Minutes.12.March.2023.pdf)
 
 
 
