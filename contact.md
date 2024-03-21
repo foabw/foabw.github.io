@@ -12,7 +12,7 @@ You can also contact Lorraine via [FaceBook](http://www.facebook.com/FoABW) or [
 
 If you would like to join us as a member, please download the membership form, every membership helps us to continue running all of our events for free:
 
-[FOABW Membership Form 2024.pdf](https://github.com/foabw/foabw.github.io/files/14251616/FOABW.Membership.Form.2024.pdf)
+[FOABW Membership Form 2024.pdf](uploads/2024/FOABW.Membership.Form.2024.pdf)
 
 
 > Membership is only £5 per year per family.
